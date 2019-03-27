@@ -35,7 +35,8 @@ app:
   #app_twitter: # uncomment if the app has a twitter account "@my-awesome-app"
   #creator_twitter: # uncomment if creator has a twitter account "@awesome-dev"
   #social_image: # uncomment and add an image - defaults to icon
-  # This will show up when your url is shared on sites like facebook and twitter
+  # 
+  will show up when your url is shared on sites like facebook and twitter
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-social_image.png
   # 512px or greater, square or width = 2X height
@@ -93,8 +94,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title:Herr App # Optional - Enter your site title
-description: # Optional - Enter your site description
+title:Herr Industry # Optional - Enter your site title
+description: This is the APP that can help you & us ! # Optional - Enter your site description
 
 #
 # Google Analytics
