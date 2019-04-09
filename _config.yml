@@ -100,7 +100,7 @@ description: This is the APP that can help you & us ! # Optional - Enter your si
 #
 # Google Analytics
 #
-#google_analytics:UA-137248155-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-137248155-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # !! You don't need to change any of the configuration flags below !!
