@@ -7,7 +7,7 @@
 #
 # General App Info
 #
-  app:
+app:
   name: Herr # REQUIRED - Enter your app name
   ios_id: 1441268159 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: https://app.herr.cn/herr.apk # Optional - Enter Android app id like: com.example.app
