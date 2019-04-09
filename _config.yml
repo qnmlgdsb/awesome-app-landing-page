@@ -7,7 +7,7 @@
 #
 # General App Info
 #
-app:
+  app:
   name: Herr # REQUIRED - Enter your app name
   ios_id: 1441268159 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: https://app.herr.cn/herr.apk # Optional - Enter Android app id like: com.example.app
@@ -100,7 +100,7 @@ description: This is the APP that can help you & us ! # Optional - Enter your si
 #
 # Google Analytics
 #
-google_analytics:UA-137248155-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+#google_analytics:UA-137248155-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # !! You don't need to change any of the configuration flags below !!
